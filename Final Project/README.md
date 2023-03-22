@@ -27,7 +27,7 @@ Note that the dashboard should try to include all the information that leads to 
 
 ### Group: อ๋อชื่อกลุ่ม
 - [Papin Thanutchapat](https://github.com/Jappapin)
-- Piyatida Meesatean
+- [Piyatida Meesatean](https://github.com/Piyati)
 - [Chiraphat Phoncharoenwirote](https://github.com/Chiraphatt)
 - [Ornrakorn Mekchaiporn](https://github.com/mill-ornrakorn)
 
