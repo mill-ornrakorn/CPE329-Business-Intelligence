@@ -1,5 +1,7 @@
 ## CPE329: Final Project
 
+![Poster](https://github.com/mill-ornrakorn/CPE329-Business-Intelligence/blob/main/Final%20Project/%E0%B8%AD%E0%B9%8B%E0%B8%AD%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1_Final%20Project_Poster.jpg?raw=true)
+
 **Deliverables:**
 1. Technical report
 2. An A2 poster for the presentation
@@ -32,4 +34,4 @@ Note that the dashboard should try to include all the information that leads to 
 - [Ornrakorn Mekchaiporn](https://github.com/mill-ornrakorn)
 
 
-<img src="https://www.img.in.th/images/7e6ede8f56ba4bcb75ed4aeaa0b0966e.jpg" alt="อ๋อชื่อกลุ่ม_Final Project_Poster.jpg"  width="744" height="1052" />
+
